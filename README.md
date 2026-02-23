@@ -192,5 +192,3 @@ Built at [Washin Village](https://washinmura.jp) (和心村) — an animal sanct
   <i>「一隻龍蝦爬過的坑，所有龍蝦都不用再踩。」</i><br>
   <i>"One lobster's pitfall becomes every lobster's shortcut."</i>
 </p>
-</content>
-</invoke>
